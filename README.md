@@ -1,0 +1,5 @@
+## About The Project
+This assignment was given during undergrad.
+
+### Purpose
+The purpose of this assignment was to practice iterating through arrays. The app takes user input in regards to supposed grades, and then returns a number of calculations on those grades to command line.
